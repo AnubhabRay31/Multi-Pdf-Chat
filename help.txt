@@ -1,0 +1,13 @@
+virtualenv myenv  -->to create the env
+
+.\myenv\Scripts\activate
+
+deactivate
+
+
+
+
+#dependencies installed : 
+pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+pip install InstructorEmbedding sentence_transformers
+
